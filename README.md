@@ -12,7 +12,7 @@ Generates animated Jet Lag-style travel-route videos from OpenStreetMap data. Re
 **[claude-code-sentinel](https://github.com/B0LLEX/claude-code-sentinel)**
 Adds persistent session memory and autonomy scheduling to Claude Code. Implemented as two stdlib Python hooks — no extra dependencies — backed by an Obsidian vault and an optional Streamlit dashboard.
 
-**card-factory-tycoon** *(coming soon)*
+**[card-factory-tycoon](https://github.com/B0LLEX/card-factory-tycoon)**
 A complete Roblox tycoon game designed, built, and tested 100% autonomously by Claude through the Roblox Studio MCP. Every in-Studio spec was implemented without human intervention.
 
 ---
