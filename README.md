@@ -7,7 +7,7 @@ I build autonomous AI-agent systems, web tools, and video automation pipelines. 
 ## Projects
 
 **[travel-map-animator](https://github.com/B0LLEX/travel-map-animator)**
-Generates animated Jet Lag-style travel-route videos from OpenStreetMap data. Runs entirely offline via Python and ffmpeg. Also ships as a Claude Code skill.
+Generates animated Jet Lag-style travel-route videos from OpenStreetMap data. Renders locally with Python and ffmpeg, pulling routes and tiles from public OpenStreetMap services. Also ships as a Claude Code skill.
 
 **[claude-code-sentinel](https://github.com/B0LLEX/claude-code-sentinel)**
 Adds persistent session memory and autonomy scheduling to Claude Code. Implemented as two stdlib Python hooks — no extra dependencies — backed by an Obsidian vault and an optional Streamlit dashboard.
@@ -19,7 +19,7 @@ A complete Roblox tycoon game designed, built, and tested 100% autonomously by C
 
 ## Currently
 
-Exploring autonomous agent pipelines with Claude Code — how far a single local model can go when given the right tools and memory.
+Exploring autonomous agent pipelines with Claude Code — how far an agent can go when given the right tools and memory.
 
 ---
 
